@@ -1,2 +1,1 @@
-# cloud-simulation
-My CloudSim Implementation
+# Cloud-Simulator
